@@ -1,5 +1,5 @@
 # Edge Detection
- This project was carried by Group 2 while studying Computer Vision course at VNUHCM-University of Science. This includes 4 edge detection methods: Sobel, Prewitt, Laplace and Cany built using algorithms. The report contains the results of methods and comparisons.
+ This project was carried by Group 2 while studying Computer Vision course at VNUHCM-University of Science. This includes 4 edge detection methods: Sobel, Prewitt, Laplace and Canny built using algorithms. The report contains the results of methods and comparisons.
 
 # Contributors
 This project is carried out by Group 2 members, including:
